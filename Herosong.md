@@ -1,5 +1,6 @@
 # Herosong0818
-Self introduction
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn)
+
 ## 🌟 Followers & Stats  
 - **Followers**:  
   ![Followers](https://img.shields.io/github/followers/Herosong0818?style=social)  
