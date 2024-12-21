@@ -22,9 +22,9 @@ Self introduction
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Herosong0818&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Herosong&show_icons=true&theme=radical&cache_seconds=60)
 
 ---
 
 ## 🌟 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herosong0818&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herosong&layout=compact&theme=radical&cache_seconds=60)
