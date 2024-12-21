@@ -27,4 +27,4 @@ Self introduction
 ---
 
 ## 🌟 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herosong&layout=compact&theme=radical&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herosong&layout=compact&theme=radical&cache_seconds=1800)
